@@ -21,3 +21,11 @@
 
 // === => it is used as strict check, it check or compare the number as well as datatypes also
 console.log("2" === 2); //false because data types are different.
+
+
+/*
+    ********************Datatype Summary**********************
+    -> It is dynamically typed language.
+    -> 2 types :- 1. Primitive      2. Reference(Non-Primitive)
+    -> 
+*/
