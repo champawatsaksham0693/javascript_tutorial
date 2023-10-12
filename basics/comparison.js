@@ -52,4 +52,4 @@ let myFunction = function(){
     console.log("Hello World");
 } // function object declaration
 
-console.log(myFunction); //[Function: myFunction]
+console.log(myFunction()); //[Function: myFunction]
